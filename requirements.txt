@@ -49,7 +49,6 @@ pyrsistent==0.15.4
 python-dateutil==2.8.0
 python-docx==0.8.10
 pytz==2020.1
-pywin32==301
 pywinpty==0.5.5
 pyzmq==18.1.0
 qtconsole==4.5.5
